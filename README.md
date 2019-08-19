@@ -10,3 +10,9 @@
 #### The smallest dataset is provided to test more computationally demanding machine learning algorithms.
 
 #### The classification goal is to predict if the client will subscribe a term deposit (variable y).
+##                          
+
+### This is the summary of the trained Neural Network Model.
+##
+
+
