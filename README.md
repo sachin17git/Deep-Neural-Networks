@@ -15,5 +15,5 @@
 ### This is the summary of the trained Neural Network Model.
 ##
 
-![model](https://user-images.githubusercontent.com/40026126/63251571-9e161200-c28b-11e9-8c58-e6b47261cab0.png)
+   ![model](https://user-images.githubusercontent.com/40026126/63251571-9e161200-c28b-11e9-8c58-e6b47261cab0.png)
 
